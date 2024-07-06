@@ -27,8 +27,6 @@
 !
 ## الروابط الهامة
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
 - [شات مصر](https://www.malaki.chat/egypt/)
 - [شات اليمن](https://www.malaki.chat/yemen/)
 - [شات سعودي](https://www.malaki.chat/saudi/)
@@ -97,8 +95,6 @@
 - [شات قطر](https://www.malaki.chat/qatar/)  
 - [شات قلوب](https://www.malaki.chat/qloob/)  
 - [شات الملكات](https://www.malaki.chat/queens/)  
-  </div>
-  <div style="flex: 1; min-width: 250px;">
 - [شات عربي](https://www.malaki.chat/arabi/)
 - [عرب شات](https://www.malaki.chat/arabic/)
 - [شات تعارف](https://www.malaki.chat/meet/)
@@ -171,8 +167,9 @@
 - [شات العرب الجديد](https://www.malaki.chat/chat-arb-new/)  
 - [شات منى](https://www.malaki.chat/mona/)  
 - [شات أوقات](https://www.malaki.chat/awqat/)
-  </div>
-</div>
+
+
+
 ## المساهمة
 
 نرحب بمساهماتك في تحسين شات ملكي! يمكنك المساهمة من خلال:
